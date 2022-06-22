@@ -13,7 +13,7 @@ TwitterAIO是Metaox开发的Twitter综合工具。
 
 About Metaox：
 
-Webside：https://motaox.io/    （未开放）
+Webside：https://metaox.io/    （未开放）
 
 Twitter：https://twitter.com/MetaoxDAO
 
