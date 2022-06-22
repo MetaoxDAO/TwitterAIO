@@ -12,7 +12,11 @@ TwitterAIO是Metaox开发的Twitter综合工具。
 工具教学——TwitterAIO：https://mirror.xyz/0x000000005cDDeeE7033B7DC9D636d061A5AB57e6/sgapSSeE3TMic_cSyOq2ijSuWV0xaW1Cua-uC6bifLE
 
 About Metaox：
+
 Webside：https://motaox.io/    （未开放）
+
 Twitter：https://twitter.com/MetaoxDAO
+
 Mirror：https://mirror.xyz/0x000000005cDDeeE7033B7DC9D636d061A5AB57e6
+
 Github：https://github.com/MetaoxDAO
