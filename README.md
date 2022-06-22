@@ -17,6 +17,6 @@ Webside：https://metaox.io/    （未开放）
 
 Twitter：https://twitter.com/MetaoxDAO
 
-Mirror：https://mirror.xyz/0x000000005cDDeeE7033B7DC9D636d061A5AB57e6
+Mirror：https://mirror.xyz/metaoxdao.eth
 
 Github：https://github.com/MetaoxDAO
