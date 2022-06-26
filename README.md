@@ -9,7 +9,7 @@ TwitterAIO是Metaox开发的Twitter综合工具。
 （5）转推并@好友
 （6）挂代理：支持http、https、socks5
 
-工具教学——FTXAIO：https://mirror.xyz/metaoxdao.eth/dxvTKq5E3hqHYI6mM0lXGKsmg1qsabBIZWD3d_PVeQQ
+工具教学——TwitterAIO：https://mirror.xyz/metaoxdao.eth/dxvTKq5E3hqHYI6mM0lXGKsmg1qsabBIZWD3d_PVeQQ 
 
 About Metaox：
 
